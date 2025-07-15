@@ -1,0 +1,10 @@
+{
+  "version": "1.0.1",
+  "forceUpdate": false,
+  "updateUrl": "#",
+  "changelog": [
+    "1. 修复了了一些功能",
+    "2. 请前往葫LU侠三楼更新",
+    "3.博主【Rain】黯笙"
+  ]
+}
