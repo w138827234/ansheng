@@ -1,0 +1,105 @@
+{
+  "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
+  "sites": [
+    {
+      "key": "csp_哔哩全集",
+      "name": "🐞哔哩全集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/哔哩全集.json"
+    },
+    {
+      "key": "csp_音乐现场",
+      "name": "🐞音乐现场",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/音乐现场.json"
+    },
+    {
+      "key": "csp_软件教程",
+      "name": "🐞软件教程",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/软件教程.json"
+    },
+    {
+      "key": "csp_美食天地",
+      "name": "🐞美食天地",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/美食天地.json"
+    },
+    {
+      "key": "csp_棋牌娱乐",
+      "name": "🐞棋牌娱乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/棋牌娱乐.json"
+    },
+    {
+      "key": "csp_戏曲合集",
+      "name": "🐞戏曲合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/戏曲合集.json"
+    },
+    {
+      "key": "csp_学习园地",
+      "name": "🐞学习园地",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/学习园地.json"
+    },
+    {
+      "key": "csp_女团热舞",
+      "name": "🐞女团热舞",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/女团热舞.json"
+    },
+    {
+      "key": "csp_体育赛事",
+      "name": "🐞体育赛事",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/体育赛事.json"
+    },
+    {
+      "key": "csp_儿童乐园",
+      "name": "🐞儿童乐园",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/儿童乐园.json"
+    }
+  ]
+}
